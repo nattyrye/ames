@@ -621,7 +621,7 @@ var simplemaps_usmap_mapdata={
       color: "Red"
     },
     "53": {
-      lat: "39.74",
+      lat: 39.74,
       lng: -104.992,
       name: "Denver, CO",
       description: "2011 BNSF - Denver Yard Pole Foundation - Project Cost: $ .3 Million",
