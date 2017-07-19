@@ -1,7 +1,7 @@
 var simplemaps_usmap_mapdata={
   main_settings: {
     //General settings
-    width: "600", //or 'responsive'
+    width: "1000", //or 'responsive'
     background_color: "#FFFFFF",
     background_transparent: "yes",
     border_color: "#ffffff",
