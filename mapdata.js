@@ -1,12 +1,11 @@
 var simplemaps_usmap_mapdata={
   main_settings: {
     //General settings
-    width: "1100", //or 'responsive'
+    width: "600", //or 'responsive'
     background_color: "#FFFFFF",
     background_transparent: "yes",
     border_color: "#ffffff",
     popups: "detect",
-    
     
     //State defaults
     state_description: "State Description",
@@ -255,14 +254,23 @@ var simplemaps_usmap_mapdata={
     }
   },
   locations: {
+    "0": {
+      lat: 39.74,
+      lng: -104.992,
+      name: "Denver, CO",
+      color: "Red",
+      description: "2015 BNSF - Denver Coal Tracks Extension - Project Cost:  $.84 Million"
+    },
     "1": {
       lat: 42.76,
       lng: -105.383,
       name: "Douglas, WY",
       color: "Red",
       description: "1998 BNSF - Third Main-CN&W Jct. to Walker  - Project Cost: $6.10 Million",
+      url: "default",
       size: "default",
       type: "default",
+      image_url: "http://flaglane.com/download/american-flag/american-flag-graphic.png",
       opacity: "default"
     },
     "2": {
@@ -306,6 +314,13 @@ var simplemaps_usmap_mapdata={
       name: "Miami, TX",
       description: "2003 BNSF - Canadian to Lora - Project Cost : $15.5 Million",
       color: "Red"
+    },
+    "8": {
+      lat: 39.919,
+      lng: -104.867,
+      name: "Henderson, CO",
+      color: "Green",
+      description: "2015 UPRR - Rolla Automative Facility - Project Cost: $1.3 Million"
     },
     "9": {
       lat: 36.434,
@@ -493,6 +508,13 @@ var simplemaps_usmap_mapdata={
       lng: -108.274,
       name: "Yellowstone, MT",
       description: "2008 GRG - Bull Mountain Rail Spur D-B - Project Cost: $103.65 Million"
+    },
+    "36": {
+      lat: 35.389,
+      lng: -120.44,
+      name: "San Luis Obispo, CO",
+      color: "Green",
+      description: "2015 UPRR - Caliente Mountain - Project Cost: $2.6 Million"
     },
     "37": {
       lat: 40.836,
