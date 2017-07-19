@@ -622,10 +622,10 @@ var simplemaps_usmap_mapdata={
     },
     "53": {
       lat: 39.741,
-      lng: -105.992,
+      lng: -104.980,
       name: "Denver, CO",
-      description: "2011 BNSF - Denver Yard Pole Foundation - Project Cost: $ .3 Million",
-      color: "Purple"
+      description: "2015 BNSF - Denver Coal Tracks Extension - Project Cost: $ .84 Million",
+      color: "Red"
     },
     "54": {
       lat: 33.241,
