@@ -622,7 +622,7 @@ var simplemaps_usmap_mapdata={
     },
     "53": {
       lat: 39.741,
-      lng: -104.980,
+      lng: -104.600,
       name: "Denver, CO",
       description: "2015 BNSF - Denver Coal Tracks Extension - Project Cost: $ .84 Million",
       color: "Red"
