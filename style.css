@@ -11,8 +11,10 @@ body {
  }
  
 .legend {
-	float: left;
+	display: block;
+	margin: auto;
     position: relative;
     width: 100px;
+    padding-top: 1%;
   
 }
